@@ -1,5 +1,5 @@
 # SpriteKit Doodle-TowerDefense
-涂鸦塔防 A*寻路
+涂鸦塔防 A*寻路 仅供学习参考
 
 4种炮塔：普通塔，直线穿透减速塔，雷电塔，跟踪导弹塔
 
